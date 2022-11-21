@@ -1,0 +1,198 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(40, 40, 40);
+}
+footer p{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+#rose{
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+}
+#joao{
+    text-decoration: none;
+    color: purple;
+    font-weight: bolder;
+}
+#julia{
+    text-decoration: none;
+    color: rgb(175, 58, 175);
+    font-weight: bolder;
+}
+#kawan{
+    text-decoration: none;
+    color: red;
+    font-weight: bolder;
+}
+.menu{
+    position: fixed;
+    background-color: rgb(197, 178, 1);
+    width: 100%; 
+}
+.menu p{
+    background-color: rgb(197, 178, 1);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.menu p a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    margin: 0;
+    background-color: rgb(197, 178, 1);
+    color: rgb(197, 178, 1);
+}
+.menu p a:hover{
+    cursor: default;
+}
+.menu button{
+    border: none;
+    padding: 30px;
+    margin: 0;
+    width: 140px;
+    height: 115px;
+    color: black;
+    background-color: rgb(197, 178, 1);
+    transition: 0.3s;
+}
+.menu button:hover{
+    cursor: pointer;
+    font-size: 20px;
+
+}
+.bla{
+    text-align: center;
+    width: 400px;
+    color: rgb(40, 40, 40);
+}
+form{
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.shit{
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.barcode{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.cock{
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#jove{
+    text-align: justify;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 5px;
+    font-size: 22px;
+}
+.text{
+    background-color: white;
+    border: none;
+    height: 30px;
+    color: black;
+}
+.inicio{
+    width: 300px;
+    margin: 151px auto;
+    text-align: center;
+}
+.btn{
+    height: 30px;
+    width: fit-content;
+    padding: 5px;
+    border: none;
+    background-color: rgb(85, 85, 85);
+}
+.btn:hover{
+    cursor: pointer;
+}
+.inicio input{
+    padding: 5px;
+    background-color: rgb(85, 85, 85);
+    border-style: none;
+    color: white;
+    height: 50px;
+    width: 260px;
+    font-size: 20px;
+    
+}
+.inicio h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 60px;
+}
+.inicio img{
+    width: 260px;
+}
+.end{
+    margin-top: 250px;
+    padding-bottom: 600px;
+    text-align: center;
+    font-size: 150px;
+    background-color: rgb(40, 40, 40);
+}
+.pend{
+    font-size: 30px;
+    text-align: justify;
+    width: 100%;
+    padding: 50px;
+    background-color: white;
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+.pend li{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+}
+.pend p{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left: 30px;
+}
+.ending{
+    height: 400px;
+    text-align: center;
+    padding-left: 500px;
+    background-color: white;
+    padding-right: 500px;
+    margin: 0px;
+}
+.final{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: white;
+    color: black;
+    margin: 0px;
+}
+.white{
+    background-color: white;
+}
